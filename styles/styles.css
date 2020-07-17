@@ -54,10 +54,10 @@ body {
 .icons {
 	background-color: hsl(229, 57%, 11%);
 	margin: auto;
-	padding:12px;
-	border-radius:10px;
-	width:45px;
-	height: 45px;
+	padding: 12px;
+	border-radius: 10px;
+	width: 30px;
+	height: 30px;
 }
 
 .container-2 {
