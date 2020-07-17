@@ -58,6 +58,7 @@ body {
 	border-radius: 10px;
 	width: 20px;
 	height: 20px;
+	object-fit: scale-down;
 }
 
 .container-2 {
