@@ -16,18 +16,6 @@ body {
   	align-items: center;
 }
 
-.attribution { 
-	font-size: 11px; 
-/*	text-align: center; */
-/*	position: fixed;*/
-/*	bottom: 0;*/
-/*	left: 10%;*/
-/*	right:10%;*/
-	display:flex;
-	justify-content: center;
-}
-
-.attribution a { color: hsl(228, 45%, 44%); }
 
 /*		This formats the items inside flex-container. */
 .flex-container {
@@ -98,5 +86,17 @@ body {
 }
 
 
+.attribution { 
+	font-size: 11px; 
+/*	text-align: center; */
+/*	position: fixed;*/
+/*	bottom: 0;*/
+/*	left: 10%;*/
+/*	right:10%;*/
+	display:flex;
+	justify-content: center;
+}
+
+.attribution a { color: hsl(228, 45%, 44%); }
 
 
