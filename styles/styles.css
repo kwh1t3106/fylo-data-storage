@@ -106,7 +106,7 @@ body {
 .container-3 {
 	background-image: url("../images/bubble.svg");
 	background-repeat: no-repeat;
-	background-size: cover;
+/*	background-size: cover;*/
 	height: 100px;
 	width: 200px;
 }
