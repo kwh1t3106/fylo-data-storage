@@ -7,7 +7,7 @@ body {
 	margin: 0;
 }
 
-/*		Need to CENTER the ENTIRE master-container on viewpoint!! */
+/*		Need to CENTER the ENTIRE master-container VERTICALLY in viewpoint!! */
 .master-container {
 /*	width:90%;*/
 	height:100%;
