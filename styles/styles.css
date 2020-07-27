@@ -1,5 +1,10 @@
 /* CSS Document */
 
+html, body {
+	margin: 0;
+	height: 100%;
+}
+
 body {
 	background-color: hsl(229,57%, 11%);
 	font-family: "Raleway", sans-serif;
