@@ -114,4 +114,5 @@ body {
 	height: 13px;
 	gradient: hsl(6, 100%, 80%) to hsl(335, 100%, 65%);
 	border-radius: 10px;
+	z-index: 1;
 }
