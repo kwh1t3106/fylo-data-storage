@@ -9,9 +9,12 @@ body {
 	background-color: hsl(229,57%, 11%);
 	font-family: "Raleway", sans-serif;
 	position: relative;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
 }
 
-/*.master-container {*/
+/*.master-container {
 /*	width:90%;*/
 /*	height: 100%;*/
 /*  	display: flex;*/
