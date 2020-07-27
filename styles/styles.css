@@ -68,12 +68,16 @@ body {
 	padding:15px 30px;
 }
 
-/*.container-3 {*/
-/*	background-color: #FFF;*/
-/*	position: absolute;*/
-/*	left:700px;*/
-/*	top:25px;*/
-/*}*/
+.container-3 {
+	background-image: url("../images/bubble.svg");
+	background-repeat: no-repeat;
+/*	background-size: cover;*/
+	height: 100px;
+	width: 160px;
+	position: absolute;
+	left: 950px;
+	bottom: 80px;
+}
 
 .background-img {
 	background-image: url("../images/bg-desktop.svg");
@@ -105,13 +109,12 @@ body {
 
 
 
-.container-3 {
-	background-image: url("../images/bubble.svg");
-	background-repeat: no-repeat;
-/*	background-size: cover;*/
-	height: 100px;
-	width: 160px;
-	position: absolute;
-	left: 950px;
-	bottom: 80px;
-}
+
+
+/*.container-3 {*/
+/*	background-color: #FFF;*/
+/*	position: absolute;*/
+/*	left:700px;*/
+/*	top:25px;*/
+/*}*/
+
