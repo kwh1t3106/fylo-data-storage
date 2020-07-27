@@ -11,14 +11,13 @@ body {
 	position: relative;
 }
 
-/*		Need to CENTER the ENTIRE master-container VERTICALLY in viewpoint!! */
-.master-container {
+/*.master-container {*/
 /*	width:90%;*/
 /*	height: 100%;*/
-  	display: flex;
-  	justify-content: center;
-  	align-items: center;
-}
+/*  	display: flex;*/
+/*  	justify-content: center;*/
+/*  	align-items: center;*/
+/*}*/
 
 /*		This formats the items inside flex-container. */
 .flex-container {
