@@ -8,9 +8,7 @@ html, body {
 body {
 	background-color: hsl(229,57%, 11%);
 	font-family: "Raleway", sans-serif;
-	position:relative;
-	margin: 0;
-	height: 100%;
+	position: relative;
 }
 
 /*		Need to CENTER the ENTIRE master-container VERTICALLY in viewpoint!! */
