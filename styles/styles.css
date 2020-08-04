@@ -65,7 +65,7 @@ body {
 
 .inner-bar {
 	height: 14px;
-	width: 60%;
+	width: 75%;
 	background-image: linear-gradient(to right, pink, red); 
 	border-radius: 10px;
 	z-index: 1;
