@@ -92,22 +92,10 @@ body {
 
 .attribution a { color: hsl(228, 45%, 44%); }
 
-
-
-
-
-/*.container-3 {*/
-/*	background-color: #FFF;*/
-/*	position: absolute;*/
-/*	left:700px;*/
-/*	top:25px;*/
-/*}*/
-
-
 .progress-bar {
 	
 	display: flex;
-	justify-content: center;
+/*	justify-content: center;*/
 	align-items: center;
 	height: 20px;
 	background-color: hsl(229, 57%, 11%);
