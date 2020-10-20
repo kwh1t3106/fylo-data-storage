@@ -84,7 +84,7 @@ body {
 }
 
 .inline-p {
-	display: inline-block;
+	display: inline-flex;
 }
 
 .container-3 {
