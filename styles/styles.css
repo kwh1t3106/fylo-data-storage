@@ -87,6 +87,7 @@ body {
 .inline-p {
 	display: inline-flex;
 	width: 49%;
+	padding-top: 5px;
 }
 
 .start-p {
