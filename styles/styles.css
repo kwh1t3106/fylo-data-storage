@@ -87,8 +87,9 @@ body {
 }
 
 .font-p {
-	font-size: small;
+/*	font-size: small;*/
 }
+/*	Change font size to be smaller:  */
 
 .inline-p {
 	display: inline-flex;
