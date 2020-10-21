@@ -109,9 +109,9 @@ body {
 	background-image: url("../images/bubble.svg");
 	background-repeat: no-repeat;
 	height: 100px;
-	width: 160px;
+	width: 125px;
 	position: absolute;
-	left: 70%;
+	left: 67%;
 	bottom: 50%;
 }
 
