@@ -83,6 +83,7 @@ body {
   	z-index: 2;
   	height: 11px;
   	width: 11px;
+	padding-right: 2px;
 }
 
 .inline-p {
