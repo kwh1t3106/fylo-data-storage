@@ -86,6 +86,10 @@ body {
 	margin-right: 2px;
 }
 
+.font-p {
+	font-size: small;
+}
+
 .inline-p {
 	display: inline-flex;
 	width: 49%;
