@@ -74,14 +74,15 @@ body {
 	z-index: 1;
 	display: flex;
 	justify-content: flex-end;
+	align-items: center;
 }
 
 .inner-dot {
   	background: #FFF;
-  	border-radius: 10px;
+  	border-radius: 11px;
   	z-index: 2;
-  	height: 10px;
-  	width: 10px;
+  	height: 11px;
+  	width: 11px;
 }
 
 .inline-p {
