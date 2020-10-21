@@ -85,11 +85,16 @@ body {
 
 .inline-p {
 	display: inline-flex;
-	width: 50%;
+	width: 49%;
 }
 
-.p-end {
-/*	justify-content: flex-end;*/
+.start-p {
+	justify-content: flex-start;
+}
+
+
+.end-p {
+	justify-content: flex-end;
 }
 
 .container-3 {
