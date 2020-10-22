@@ -115,6 +115,15 @@ body {
 	bottom: 50%;
 }
 
+.big-font {
+	font-size: 120%;
+}
+
+.small-font {
+	font-size: 90%;
+	color: darkgrey;
+}
+
 .background-img {
 	background-image: url("../images/bg-desktop.svg");
 	background-repeat: no-repeat;
