@@ -127,12 +127,11 @@ body {
 }
 
 .big-font {
-	font-size: 150%;
+	font-size: 160%;
 }
 
 .small-font {
 	font-size: 90%;
-	font-variant: small-caps;
 	color: darkgrey;
 }
 
