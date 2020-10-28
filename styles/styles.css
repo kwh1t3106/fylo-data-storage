@@ -69,7 +69,7 @@ body {
 .inner-bar {
 	height: 14px;
 	width: 75%;
-	background-image: linear-gradient(to right, pink, red); 
+	background-image: linear-gradient(to right, rgb(254,157,151), rgb(252,78,147)); 
 	border-radius: 10px;
 	z-index: 1;
 	display: flex;
