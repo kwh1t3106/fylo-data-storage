@@ -106,8 +106,8 @@ body {
 }
 
 .container-3 {
-	background-image: url("../images/bubble.svg");
-	background-repeat: no-repeat;
+/*	background-image: url("../images/bubble.svg");*/
+/*	background-repeat: no-repeat;*/
 	height: 100px;
 	width: 125px;
 	position: absolute;
