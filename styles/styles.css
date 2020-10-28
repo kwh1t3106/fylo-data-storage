@@ -118,12 +118,17 @@ body {
 	justify-content: center;
 }
 
+.bubble-resize {
+	
+}
+
 .inner-container {
 	width: 90%;
 	height: 60%;
 	display: inline-flex;
 	justify-content: center;
 	font-weight: 700;
+	position: absolute;
 }
 
 .big-font {
