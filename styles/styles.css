@@ -14,7 +14,7 @@ body {
   	align-items: center;
 }
 
-/*		This formats the items inside flex-container. */
+/*		This formats the items inside flex-container. 		*/
 .flex-container {
 	width:80%;
 	display: flex;
@@ -114,8 +114,12 @@ body {
 	left: 67%;
 	bottom: 50%;
 	display: inline-flex;
-	align-items: flex-start;
-	justify-content: center;
+/*	align-items: flex-start;*/
+/*	justify-content: center;*/
+}
+
+.inner-container {
+	
 }
 
 .big-font {
@@ -151,5 +155,4 @@ body {
 }
 
 .attribution a { color: hsl(228, 45%, 44%); }
-
 
