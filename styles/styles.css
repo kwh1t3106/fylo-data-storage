@@ -123,11 +123,10 @@ body {
 	height: 60%;
 	display: inline-flex;
 	justify-content: center;
-	font: 700;
 }
 
 .big-font {
-	font: 150%;
+	font: 150% 700;
 }
 
 .small-font {
