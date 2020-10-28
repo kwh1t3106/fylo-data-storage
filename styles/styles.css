@@ -41,7 +41,7 @@ body {
 .icons {
 	background-color: hsl(229, 57%, 11%);
 	margin-right: 6%;
-	padding: 6%;
+	padding: 12px;
 	border-radius: 10px;
 	width: 25px;
 	height: 25px;
