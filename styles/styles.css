@@ -113,9 +113,7 @@ body {
 	position: absolute;
 	left: 67%;
 	bottom: 50%;
-	display: inline-flex;
-/*	align-items: flex-start;*/
-/*	justify-content: center;*/
+	display: flex;
 }
 
 .inner-container {
