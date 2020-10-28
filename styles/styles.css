@@ -121,7 +121,8 @@ body {
 .inner-container {
 	width: 90%;
 	height: 60%;
-	
+	display: inline-flex;
+	justify-content: center;
 }
 
 .big-font {
