@@ -123,14 +123,16 @@ body {
 	height: 60%;
 	display: inline-flex;
 	justify-content: center;
+	font-weight: 700;
 }
 
 .big-font {
-	font: 150% 700;
+	font-size: 150%;
 }
 
 .small-font {
-	font: 90% small-caps;
+	font-size: 90%;
+	font-variant: small-caps;
 	color: darkgrey;
 }
 
